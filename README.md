@@ -9,16 +9,6 @@
 - [출판사 제공 ebook](https://thebook.io/080212)
 - [실습 git 저장소](https://github.com/jinygit)
 
-## 강환수 교수의 유튜브 강좌
-- [걍교수의 AIT code](https://www.youtube.com/@aitcode)
-- [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
-
-## 수업 점검(팀과제 깃허브저장소 주소 입력)과 기말고사 일정
-- [B반 오전](https://docs.google.com/spreadsheets/d/1Djn_eJtftQ2JG3JWNLm77fGBk3h7TcGUluKW_i1Mdvg/edit?usp=sharing)
-- [A반 오후](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
-- [기말고사] 오픈소스소프트웨어 QB 12/15월 4교시 12:00~12:50 2-B202
-- [기말고사] 오픈소스소프트웨어 QA 12/15월 6교시 14:00~14:50 2-B202
-
 ---
 ## 수업 일정
 | 주차 | 일자         | 요일  | 교재      | 주제        | 원일자        | 비고     |
@@ -38,6 +28,23 @@
 | 13 | 2026-11-25 | 수요일 |         |                |            |   |
 | 14 | 2026-12-02 | 수요일 |         | 대면수업, 탐과제 발표  |        |        |
 | 15 | 2026-12-09 | 수요일 |         | 기말고사      |            |        |
+
+## 중간고사와 기말고사 일정
+- QA 2026-10-21수 교시 12:00~12:50 2호관-B201호 
+- QB 2026-10-21수 교시 14:00~14:50 2호관-B201호 
+- QA 2026-12-09수 교시 12:00~12:50 6호관-309호
+- QB 2026-12-09수 교시 14:00~14:50 6호관-309호
+
+---
+## 강환수 교수의 유튜브 강좌
+- [걍교수의 AIT code](https://www.youtube.com/@aitcode)
+- [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
+
+## 수업 점검(팀과제 깃허브저장소 주소 입력)과 기말고사 일정
+- [B반 오전](https://docs.google.com/spreadsheets/d/1Djn_eJtftQ2JG3JWNLm77fGBk3h7TcGUluKW_i1Mdvg/edit?usp=sharing)
+- [A반 오후](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
+- [기말고사] 오픈소스소프트웨어 QB 12/15월 4교시 12:00~12:50 2-B202
+- [기말고사] 오픈소스소프트웨어 QA 12/15월 6교시 14:00~14:50 2-B202
 
 ## 팀과제: 다음 내용을 디자인과 팀원들의 협업 활동 평가
 - 내용과 함께 깃허브의 다양한 기능 사용 평가
