@@ -41,8 +41,8 @@
 - [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
 
 ## 수업 점검(팀과제 깃허브저장소 주소 입력)과 기말고사 일정
-- [B반 오전](https://docs.google.com/spreadsheets/d/1Djn_eJtftQ2JG3JWNLm77fGBk3h7TcGUluKW_i1Mdvg/edit?usp=sharing)
-- [A반 오후](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
+- [A반 오전]()
+- [B반 오후]()
 - [기말고사] 오픈소스소프트웨어 QB 12/15월 4교시 12:00~12:50 2-B202
 - [기말고사] 오픈소스소프트웨어 QA 12/15월 6교시 14:00~14:50 2-B202
 
@@ -55,7 +55,7 @@
 - 팀과제 주소 업로드
   - 위 수업 점검 주소에 연결된 파일에 업로드 
 - 과제마감일
-  - 2025.12.07(일)
+  - 2026.12.02(수) 수업시간에 발표
  
 > - 사례1: ‘오픈소스소프트웨어 보고서’ 구축
 >   - OSS 개요, OSS 역사
