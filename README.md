@@ -41,8 +41,8 @@
 - [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
 
 ## 수업 점검(팀과제 깃허브저장소 주소 입력)과 기말고사 일정
-- [A반 오전]()
-- [B반 오후]()
+- [A반 오전](https://docs.google.com/spreadsheets/d/1A4DQCskKXLJ6AImyag-_CBAeDxbAv1q25jRxJBOwtgM/edit?usp=sharing)
+- [B반 오후](https://docs.google.com/spreadsheets/d/151NAjlkaFgV1H_k17Oo6hbpPbTltkOA69Sn33w3siQE/edit?usp=sharing)
 - [기말고사] 오픈소스소프트웨어 QB 12/15월 4교시 12:00~12:50 2-B202
 - [기말고사] 오픈소스소프트웨어 QA 12/15월 6교시 14:00~14:50 2-B202
 
