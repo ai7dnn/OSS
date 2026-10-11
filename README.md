@@ -67,3 +67,76 @@
 | 구분         | 적용 범위          | 기본 경로                                         | 명령어 옵션         | 우선순위  |
 | ---------- | -------------- | --------------------------------------------- | -------------- | ----- |
 | **System** | 모든 사용자, 모든 저장소 | `C:\Program Fiels\Git\etc\gitconfig` (또는 Git 설치 폴더 내부) | `--system`     | 낮
+
+---
+
+## Git 설정 파일 요약 표 (Windows 기준)
+| 구분         | 적용 범위          | 기본 경로                                         | 명령어 옵션         | 우선순위  |
+| ---------- | -------------- | --------------------------------------------- | -------------- | ----- |
+| **System** | 모든 사용자, 모든 저장소 | `C:\Program Fiels\Git\etc\gitconfig` (또는 Git 설치 폴더 내부) | `--system`     | 낮음    |
+| **Global** | 현재 사용자 전체      | `C:\Users\<사용자명>\.gitconfig`                  | `--global`     | 중간    |
+| **Local**  | 특정 저장소         | `<repo>\.git\config`                          | `--local` (기본) | 가장 높음 |
+
+
+## 설정 파일 열기/편집: --system 모드인 경우, 관리자 모드로 git bash를 열기
+```
+$ git config --system --edit
+$ git config --global --edit
+$ git config --local --edit
+```
+
+## 주요 설정 명령어
+```
+$ git config --global user.name ai7dnn
+$ git config --global user.email ai7dnn@gmail.com
+$ git config --global core.autocrlf true
+$ git config --global core.safecrlf false
+$ git config --global core.editor 'code --wait'
+$ git config --global init.defaultBranch main
+```
+ 
+## 깃과 깃허브를 사랑하기 위한 유튜브 영상
+- [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
+- [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
+- [드림코딩 Vim 이해 25분](https://www.youtube.com/watch?v=cY0JxzENBJg) 
+- [드림코딩 리눅스/유닉스 쉘 명령어 기초 30분](https://www.youtube.com/watch?v=EL6AQl-e3AQ)
+- [얄팍한 코딩사전 2시간20분](https://www.youtube.com/watch?v=1I3hMwQU6GU), [강좌자료](https://www.yalco.kr/lectures/git-github/) 
+- [오픈소스 소프트웨어 실습 10. 소스 관리, add commit log show, HGU SW 중심대, 한동대 SW중심대학 사업단](https://www.youtube.com/watch?v=KQxBSLC5rjI)
+- [오픈소스 소프트웨어 실습 11. diff rever reset, HGU SW 중심대, 한동대 SW중심대학 사업단](https://www.youtube.com/watch?v=eITEQ196Rc4)
+
+
+## 깃과 깃허브를 사랑하기 위한 참조 사이트 
+
+### 전체
+- [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
+- [간편 Git](https://mylko72.gitbooks.io/git/content)
+
+## 부교재(참고 자료)  
+- Git 교과서
+  - [인터넷 사이트](https://git.jiny.dev)  
+  - [출판사 제공 ebook](https://thebook.io/080212)  
+  - [저자의 실습 github 저장소](https://github.com/jinygit)  
+
+## 주요 오픈 소스 소프트웨어(OSS) 저장소
+- 프로그래밍 언어
+  - [CPython, 표준파이썬](https://github.com/python/cpython)
+  - [Apple swift, 앱개발 언어](https://github.com/apple/swift)
+- 운영체제
+  - [리눅스](https://github.com/torvalds/linux)  
+- 편집기  
+  - [vscode](https://github.com/microsoft/vscode)  
+  - [atom](https://github.com/atom/atom)
+- 버전관리시스템
+  - [Git](https://git.kernel.org/pub/scm/git/git.git)
+  - [Git](https://github.com/git/git)
+- 인공지능 라이브러리
+  - [tensorflow](https://github.com/tensorflow/tensorflow)
+  - [pytorch](https://github.com/pytorch/pytorch)
+  - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- 웹프로그래밍 프레임워크, 라이브러리
+  - [boostrap(front-end framework)](https://github.com/twbs/bootstrap)
+  - [react(JavaScript library for building user interfaces)](https://github.com/facebook/react)
+  - [Vue.js(progressive framework for building user interfaces)](https://github.com/vuejs/vue)
+
+
+
